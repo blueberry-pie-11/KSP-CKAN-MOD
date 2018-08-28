@@ -1,0 +1,236 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+	"name": "installed-Kerbal Space Program",
+	"license": "unknown",
+	"version": "2018.08.28.10.09.51",
+	"identifier": "installed-Kerbal Space Program",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "PhysicsRangeExtender"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "KAS"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "KSP-AVC"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "Firespitter"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "VesselMoverContinued"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "ShuttleLiftingBodyCormorantAeronology"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "AirplanePlus"
+		},
+		{
+			"name": "MalemuteRover"
+		},
+		{
+			"name": "DockingPortSoundFX"
+		},
+		{
+			"name": "ProgressParser"
+		},
+		{
+			"name": "RealBattery"
+		},
+		{
+			"name": "FMRSContinued"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "ScienceRelay"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "ChattererExtended"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "ShipEffectsContinued"
+		},
+		{
+			"name": "KerbalLaunchFailure"
+		},
+		{
+			"name": "LoadingScreenManager"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "AT-Utils"
+		},
+		{
+			"name": "USI-ART"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "USI-Core"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "B9AerospaceHX"
+		},
+		{
+			"name": "B9AnimationModules"
+		},
+		{
+			"name": "BDArmoryContinued"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "BackgroundResources"
+		}
+	]
+}
