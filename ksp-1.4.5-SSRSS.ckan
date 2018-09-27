@@ -1,10 +1,10 @@
 {
 	"kind": "metapackage",
-	"abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
-	"name": "installed-Kerbal Space Program",
+	"abstract": "A list of modules installed on the auto KSP instance",
+	"name": "installed-auto",
 	"license": "unknown",
-	"version": "2018.08.28.10.06.37",
-	"identifier": "installed-Kerbal Space Program",
+	"version": "2018.09.16.09.54.11",
+	"identifier": "installed-auto",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
@@ -23,7 +23,7 @@
 			"name": "MechJebForAll"
 		},
 		{
-			"name": "RealPlume-StockConfigs"
+			"name": "RSSTextures8192"
 		},
 		{
 			"name": "ModularFlightIntegrator"
@@ -38,10 +38,7 @@
 			"name": "NearFutureProps"
 		},
 		{
-			"name": "DistantObject-default"
-		},
-		{
-			"name": "InterstellarFuelSwitch-Core"
+			"name": "PlanetShine"
 		},
 		{
 			"name": "SpaceXLegs"
@@ -83,7 +80,7 @@
 			"name": "SmokeScreen"
 		},
 		{
-			"name": "PlanetShine"
+			"name": "KerbalKonstructs"
 		},
 		{
 			"name": "Firespitter"
@@ -104,7 +101,7 @@
 			"name": "VesselMoverContinued"
 		},
 		{
-			"name": "InterstellarFuelSwitch"
+			"name": "KSPInterstellarExtended"
 		},
 		{
 			"name": "ShuttleLiftingBodyCormorantAeronology"
@@ -122,31 +119,16 @@
 			"name": "ClickThroughBlocker"
 		},
 		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "Scatterer-config"
-		},
-		{
 			"name": "StationPartsExpansionRedux"
 		},
 		{
 			"name": "Kopernicus"
 		},
 		{
-			"name": "KSPInterstellarExtended"
-		},
-		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "Scatterer"
+			"name": "ConfigurableContainers-Core"
 		},
 		{
 			"name": "AirplanePlus"
-		},
-		{
-			"name": "MalemuteRover"
 		},
 		{
 			"name": "DockingPortSoundFX"
@@ -197,31 +179,13 @@
 			"name": "LoadingScreenManager"
 		},
 		{
-			"name": "ConfigurableContainers-Core"
-		},
-		{
 			"name": "AT-Utils"
 		},
 		{
-			"name": "USI-ART"
+			"name": "InterstellarFuelSwitch"
 		},
 		{
-			"name": "USITools"
-		},
-		{
-			"name": "USI-Core"
-		},
-		{
-			"name": "RealPlume"
-		},
-		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "B9AerospaceHX"
-		},
-		{
-			"name": "B9AnimationModules"
+			"name": "DistantObject-RealSolarSystem"
 		},
 		{
 			"name": "BDArmoryContinued"
@@ -231,6 +195,33 @@
 		},
 		{
 			"name": "BackgroundResources"
+		},
+		{
+			"name": "KSCSwitcher"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "Scatterer-config"
 		}
 	]
 }

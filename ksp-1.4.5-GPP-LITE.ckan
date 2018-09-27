@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
 	"name": "installed-Kerbal Space Program",
 	"license": "unknown",
-	"version": "2018.08.28.10.06.37",
+	"version": "2018.08.17.06.05.08",
 	"identifier": "installed-Kerbal Space Program",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -104,6 +104,12 @@
 			"name": "VesselMoverContinued"
 		},
 		{
+			"name": "TACLS"
+		},
+		{
+			"name": "BDArmoryContinued"
+		},
+		{
 			"name": "InterstellarFuelSwitch"
 		},
 		{
@@ -111,6 +117,9 @@
 		},
 		{
 			"name": "TweakScale"
+		},
+		{
+			"name": "BackgroundResources"
 		},
 		{
 			"name": "B9PartSwitch"
@@ -137,6 +146,12 @@
 			"name": "KSPInterstellarExtended"
 		},
 		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
 			"name": "PlanetShine-Config-Default"
 		},
 		{
@@ -146,16 +161,22 @@
 			"name": "AirplanePlus"
 		},
 		{
-			"name": "MalemuteRover"
+			"name": "GPP"
 		},
 		{
-			"name": "DockingPortSoundFX"
+			"name": "GPPTextures"
 		},
 		{
-			"name": "ProgressParser"
+			"name": "KerbalKonstructs"
 		},
 		{
-			"name": "RealBattery"
+			"name": "JX2Antenna"
+		},
+		{
+			"name": "DMagicScienceAnimate"
+		},
+		{
+			"name": "GPPCloudsHighRes"
 		},
 		{
 			"name": "FMRSContinued"
@@ -197,10 +218,19 @@
 			"name": "LoadingScreenManager"
 		},
 		{
+			"name": "AlternateResourcePanel"
+		},
+		{
+			"name": "Snacks"
+		},
+		{
 			"name": "ConfigurableContainers-Core"
 		},
 		{
 			"name": "AT-Utils"
+		},
+		{
+			"name": "BetterLookingOceans-HighRes"
 		},
 		{
 			"name": "USI-ART"
@@ -210,27 +240,6 @@
 		},
 		{
 			"name": "USI-Core"
-		},
-		{
-			"name": "RealPlume"
-		},
-		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "B9AerospaceHX"
-		},
-		{
-			"name": "B9AnimationModules"
-		},
-		{
-			"name": "BDArmoryContinued"
-		},
-		{
-			"name": "TACLS"
-		},
-		{
-			"name": "BackgroundResources"
 		}
 	]
 }
