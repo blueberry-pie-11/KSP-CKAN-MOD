@@ -1,0 +1,191 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the auto KSP instance",
+	"name": "installed-auto",
+	"license": "unknown",
+	"version": "2018.12.31.07.44.00",
+	"identifier": "installed-auto",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "PhysicsRangeExtender"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "VesselMoverContinued"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "DockingPortSoundFX"
+		},
+		{
+			"name": "RealBattery"
+		},
+		{
+			"name": "BackgroundResources"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "KerbalHealth"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "LoadingScreenManager"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "BDArmoryContinued"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "AirplanePlus"
+		},
+		{
+			"name": "ShuttleLiftingBodyCormorantAeronology"
+		},
+		{
+			"name": "Firespitter"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		},
+		{
+			"name": "ReentryParticleEffect"
+		},
+		{
+			"name": "ConnectedLivingSpace"
+		},
+		{
+			"name": "AVP-4kTextures"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		}
+	]
+}
