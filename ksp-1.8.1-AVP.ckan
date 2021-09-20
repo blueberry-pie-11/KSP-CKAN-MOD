@@ -1,0 +1,200 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the auto KSP instance",
+	"name": "installed-auto",
+	"license": "unknown",
+	"version": "2020.01.03.06.49.52",
+	"identifier": "installed-auto",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "PhysicsRangeExtender"
+		},
+		{
+			"name": "AirplanePlus"
+		},
+		{
+			"name": "SDHI-ServiceModuleSystem"
+		},
+		{
+			"name": "AnimatedDecouplers"
+		},
+		{
+			"name": "SDHI-SharedAssets"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "AVP-8kTextures"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "BackgroundResources"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "BDArmoryContinued"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "KSCExtended"
+		},
+		{
+			"name": "KerbalKonstructs"
+		},
+		{
+			"name": "CustomPreLaunchChecks"
+		},
+		{
+			"name": "TundraSpaceCenter"
+		},
+		{
+			"name": "StockalikeStructures"
+		},
+		{
+			"name": "UKS"
+		},
+		{
+			"name": "USI-ART"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "USI-Core"
+		},
+		{
+			"name": "Konstruction"
+		},
+		{
+			"name": "GroundConstruction-Core"
+		},
+		{
+			"name": "AT-Utils"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "FMRSContinued"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "KSP-AVC"
+		}
+	]
+}

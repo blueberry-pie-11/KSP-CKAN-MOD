@@ -1,0 +1,212 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the KSP-1.7.3 KSP instance",
+	"name": "installed-KSP-1.7.3",
+	"license": "unknown",
+	"version": "2020.01.20.10.09.32",
+	"identifier": "installed-KSP-1.7.3",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "CustomPreLaunchChecks"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "AirplanePlus"
+		},
+		{
+			"name": "BDArmoryContinued"
+		},
+		{
+			"name": "DeployableEngines"
+		},
+		{
+			"name": "CryoTanks-Core"
+		},
+		{
+			"name": "CryoTanks"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "TundraSpaceCenter"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "BackgroundResources"
+		},
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "CryoEngines"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "CryoEngines-NFAero"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "BetterTimeWarpCont"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "AVP-8kTextures"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "SDHI-ServiceModuleSystem"
+		},
+		{
+			"name": "AnimatedDecouplers"
+		},
+		{
+			"name": "SDHI-SharedAssets"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "StockalikeStructures"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "ChattererExtended"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "KSCExtended"
+		},
+		{
+			"name": "KerbalKonstructs"
+		},
+		{
+			"name": "NearFutureSpacecraft-OrbitalLFOEngines"
+		},
+		{
+			"name": "NearFuturePropulsion-XenonHETs"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "PhysicsRangeExtender"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "FMRSContinued"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		}
+	]
+}

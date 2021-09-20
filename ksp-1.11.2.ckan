@@ -1,0 +1,213 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Auto-KSP",
+    "name": "installed-Auto KSP",
+    "abstract": "A list of modules installed on the Auto KSP KSP instance",
+    "author": [
+        "zfl"
+    ],
+    "version": "2021.05.29.10.34.59",
+    "ksp_version_min": "1.11.2",
+    "ksp_version_max": "1.11.2",
+    "license": [
+        "GPL-3.0"
+    ],
+    "depends": [
+        {
+            "name": "MakingHistory-DLC"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "AVP-8kTextures"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-05-29T18:34:59.0708503+08:00"
+}

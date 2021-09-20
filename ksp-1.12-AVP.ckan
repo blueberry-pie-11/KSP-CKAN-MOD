@@ -1,0 +1,221 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Auto-KSP",
+    "name": "installed-Auto KSP",
+    "abstract": "A list of modules installed on the Auto KSP KSP instance",
+    "author": [
+        "zfl"
+    ],
+    "version": "2021.07.29.05.09.26",
+    "ksp_version_min": "1.11.2",
+    "license": [
+        "Apache-2.0"
+    ],
+    "depends": [
+        {
+            "name": "MakingHistory-DLC"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "StationPartsExpansionRedux-Metal"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "JX2Antenna"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "RecoveryController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-07-29T13:09:26.9842482+08:00"
+}

@@ -1,0 +1,256 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "fqfqf",
+    "name": "installed-auto",
+    "abstract": "A list of modules installed on the auto KSP instance",
+    "version": "2020.03.18.10.17.58",
+    "ksp_version_min": "1.8",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "RSSTextures8192"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "SmokeScreen-RO"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "AdvancedJetEngine"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "RealHeat"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "RP-0"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RCSBuildAidCont"
+        },
+        {
+            "name": "RealAntennas"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "Kerbalism-Config-RO"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TestFlight"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "CustomBarnKit-RO"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "VenStockRevamp-Core"
+        },
+        {
+            "name": "KerbalConstructionTime-173"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}

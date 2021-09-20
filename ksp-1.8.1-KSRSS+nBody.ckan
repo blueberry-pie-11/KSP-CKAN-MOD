@@ -1,0 +1,233 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ckan",
+    "name": "installed-RSS-1.8.1",
+    "abstract": "A list of modules installed on the RSS-1.8.1 KSP instance",
+    "version": "2020.03.22.06.12.51",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.9.1",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "PEBKACIndustriesLaunchEscapeSystem"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "StockalikeStructures"
+        },
+        {
+            "name": "AuroraSpaceCenter"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RFStockalike"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "RecoveryController"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "SDHI-ServiceModuleSystem"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "SDHI-SharedAssets"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "EngineLightRelit"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}

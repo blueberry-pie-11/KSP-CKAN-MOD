@@ -1,0 +1,213 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-auto",
+    "name": "installed-auto",
+    "abstract": "A list of modules installed on the auto KSP instance",
+    "version": "2020.04.20.07.14.02",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RFStockalike"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "StockalikeStructures"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "KSCExtended"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "RecoveryController"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "AVP-8kTextures"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "EngineLightRelit"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}

@@ -1,0 +1,218 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "wfafawd",
+    "name": "installed-auto",
+    "abstract": "A list of modules installed on the auto KSP instance",
+    "version": "2020.03.03.10.37.14",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.9.1",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "SDHI-StrobeOMatic"
+        },
+        {
+            "name": "SDHI-SharedAssets"
+        },
+        {
+            "name": "SDHI-ServiceModuleSystem"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "RecoveryController"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "StockalikeStructures"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        },
+        {
+            "name": "KSCExtended"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "MechJebForAll"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}

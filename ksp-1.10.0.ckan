@@ -1,0 +1,198 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-auto",
+    "name": "installed-auto",
+    "abstract": "A list of modules installed on the auto KSP instance",
+    "version": "2020.07.08.07.10.38",
+    "license": [
+        "GPL-3.0"
+    ],
+    "depends": [
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RFStockalike"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "StockalikeStructures"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "KSCExtended"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "RecoveryController"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "RemoteTechStockConfigs"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}

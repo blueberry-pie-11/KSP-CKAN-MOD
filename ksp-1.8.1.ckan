@@ -1,0 +1,140 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the ksp-1.8.1 KSP instance",
+	"name": "installed-ksp-1.8.1",
+	"license": "unknown",
+	"version": "2020.01.18.08.55.52",
+	"identifier": "installed-ksp-1.8.1",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "FMRSContinued"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "BackgroundResources"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "SDHI-SharedAssets"
+		},
+		{
+			"name": "AnimatedDecouplers"
+		},
+		{
+			"name": "SDHI-ServiceModuleSystem"
+		},
+		{
+			"name": "AirplanePlus"
+		},
+		{
+			"name": "PhysicsRangeExtender"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "MechJeb2"
+		}
+	]
+}
